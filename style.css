@@ -1,0 +1,70 @@
+/*selector{
+	property: value;
+}*/
+
+body {
+     background-image: url(backgroundimage.jpg);
+     background-size: cover;
+	 background-color: powderblue;
+}
+.malik {
+	color: black;
+	text-align:center;
+	cursor: pointer;
+	font-size: 70px;
+}
+p {
+	color: black;
+	font-size: 200px;
+	font: 1rem 'Fira Sans', sans-serif;
+}
+p {
+	color: black;
+	font-size: 200px;
+	font: 1rem 'Fira Sans', sans-serif;
+}
+footer{
+	font-weight: bold;
+}
+.menu li {
+	font: 1rem 'Fira Sans', sans-serif;
+	text-align: left;
+	text-decoration: none;
+	display: inline-block;
+	padding: 25px 50px;
+	font-size: 25px;
+	background-color: teal;
+	color: #ddd;
+	margin: 25px;
+
+
+
+
+}
+.menu li a{
+	text-decoration: none;
+	display:inline-block;
+	text-align: right;
+}
+li a:hover{
+	background-color: yellow;
+
+}
+h1{
+	color: black;
+	text-align:center;
+}
+.text-align{ 
+	text-align: left
+
+}
+.ade{
+	color: crimson;
+}
+.ol{
+	font-size: 40px;
+}
+div{
+	font-size: 100px;
+}
+
